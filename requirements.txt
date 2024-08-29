@@ -1,0 +1,7 @@
+- Tensorflow
+- Keras
+- Numpy
+- Matplotlib
+- zipfile
+- os
+
