@@ -26,11 +26,13 @@ git clone https://github.com/yourusername/Dog-vs-Cat-Classification.git
 
 ```bash
 cd Dog-vs-Cat-Classification
+```
 
 3. Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 4. Running the Project
 - Ensure the dataset is properly structured within the train and validation folders.
@@ -38,6 +40,7 @@ pip install -r requirements.txt
 
 ```bash
 jupyter notebook main.ipynb
+```
 
 - Follow the steps in the notebook to train the model, evaluate its performance, and make predictions.
 
