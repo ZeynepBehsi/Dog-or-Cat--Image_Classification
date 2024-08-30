@@ -20,7 +20,7 @@ This project aims to classify images of cats and dogs using a Convolutional Neur
 
 ```bash
 git clone https://github.com/yourusername/Dog-vs-Cat-Classification.git
-
+```
 
 2. Navigate to the project directory:
 
